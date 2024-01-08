@@ -6,3 +6,4 @@ pythran
 wheel
 numpy>=1.21.1
 git+https://github.com/scientific-python/devpy
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
