@@ -6,3 +6,4 @@ pytest>=5.2.0
 pytest-cov>=2.7.0
 pytest-localserver
 pytest-faulthandler
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
